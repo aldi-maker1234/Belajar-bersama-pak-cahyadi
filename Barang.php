@@ -57,4 +57,4 @@
         $Stokakhir  = $panggilBarang->stokAkhirBarang();
     }
 
-?>
+?> 
